@@ -1,0 +1,27 @@
+{
+    "user": [
+      {
+        "Username": "zaki s",
+        "Email": "zakishaikh670@gmail.co",
+        "Password": "1234",
+        "id": 1
+      }
+    ],
+    "post": [
+      {
+        "post": "cat here",
+        "Email": "zakishaikh670@gmail.co",
+        "id": 2
+      },
+      {
+        "post": "get poat",
+        "Email": "zakishaikh670@gmail.co",
+        "id": 3
+      },
+      {
+        "post": "get poat",
+        "Email": "zakishaikh670@gmail.co",
+        "id": 4
+      }
+    ]
+  }
